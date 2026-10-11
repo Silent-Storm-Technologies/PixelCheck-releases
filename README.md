@@ -114,7 +114,7 @@ usually means a wired connection on the lighting network.
 
 ## Licence
 
-PixelCheck needs a licence key, activated once per computer.
+PixelCheck needs a licence key. One key can be active on up to four computers at a time.
 
 1. Buy a licence and the key arrives by email.
 2. Open PixelCheck and paste the key into the **Activate** screen.
